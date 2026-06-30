@@ -18,7 +18,7 @@ const JUMP_DURATION = 500;
 bot.on('spawn', () => {
   setTimeout(() => {
     bot.setControlState('sneak', true);
-    console.log(`✅ ${config.botUsername} is Ready!`);
+    console.log(`✅ ${config.STAFF_RUNNER} is Ready!`);
   }, 3000);
 
   setTimeout(movementCycle, STEP_INTERVAL);
