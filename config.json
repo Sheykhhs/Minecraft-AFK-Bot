@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
-  "botChunk": 1
+  "serverHost": "OMLET_SMP.aternos.me",
+  "serverPort": 64092,
+  "botUsername": "STAFF_RUNNER",
+  "botChunk": 4
 }
